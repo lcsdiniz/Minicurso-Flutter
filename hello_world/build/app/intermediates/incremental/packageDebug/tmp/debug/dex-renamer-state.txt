@@ -1,0 +1,4 @@
+#Thu Nov 28 10:19:58 GMT-03:00 2019
+base.0=C\:\\Users\\aluno\\AndroidStudioProjects\\hello_world\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

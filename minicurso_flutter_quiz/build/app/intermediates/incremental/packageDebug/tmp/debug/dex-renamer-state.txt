@@ -1,0 +1,4 @@
+#Thu Nov 28 15:08:44 GMT-03:00 2019
+base.0=C\:\\Users\\aluno\\AndroidStudioProjects\\minicurso_flutter_quiz\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
