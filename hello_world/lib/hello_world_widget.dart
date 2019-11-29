@@ -12,13 +12,13 @@ class _HelloWorldWidgetState extends State<HelloWorldWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Quantas vezes fiquei puto?'),
+        title: Text('Acidentes na Obra'),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
           Center(
-            child: Text('Fiquei puto hoje ${contador.toString()} vezes'),
+            child: Text('Estamos há ${contador.toString()} dias sem acidentes'),
           ),
           RaisedButton(
               onPressed:(){
